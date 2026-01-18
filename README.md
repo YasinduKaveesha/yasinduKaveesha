@@ -1,5 +1,5 @@
-👋 Hey, I'm Yasindu Kaveesha
 <div align="center">
+👋 Hey, I'm Yasindu Kaveesha
 Show Image
 Data Science Student | ML Engineer | RAG Systems Developer
 Building intelligent systems, one model at a time 🚀
@@ -26,46 +26,31 @@ pythonclass YasinduKaveesha:
 
 me = YasinduKaveesha()
 me.say_hi()
+
 💼 Tech Stack
-🤖 Data Science & ML
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-🧠 AI & LLMs
-Show Image
-Show Image
-Show Image
-💻 Full Stack Development
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-🗄️ Databases & Cloud
-Show Image
-Show Image
-Show Image
-Show Image
-⚡ Languages
-Show Image
-Show Image
-Show Image
+Data Science & ML
+Python TensorFlow PyTorch Scikit-Learn Pandas NumPy
+AI & LLMs
+OpenAI Hugging Face LangChain
+Full Stack Development
+React Node.js Express.js JavaScript HTML5 CSS3
+Databases & Cloud
+MongoDB MySQL PostgreSQL Docker
+Languages
+C C++ Java Python
+
 📊 GitHub Stats
 <div align="center">
 Show Image
 Show Image
 Show Image
 </div>
-🚀 Featured Projects
 
-🤖 RAG System Pipeline: Building enterprise-grade retrieval-augmented generation systems
-🧠 Deep Learning Models: Custom neural architectures for computer vision and NLP
-📊 ML Operations: End-to-end MLOps pipelines with monitoring and deployment
-🌐 AI-Powered Web Apps: Full-stack applications integrated with ML models
+🚀 Featured Projects
+🤖 RAG System Pipeline - Building enterprise-grade retrieval-augmented generation systems
+🧠 Deep Learning Models - Custom neural architectures for computer vision and NLP
+📊 ML Operations - End-to-end MLOps pipelines with monitoring and deployment
+🌐 AI-Powered Web Apps - Full-stack applications integrated with ML models
 
 🌱 Currently Learning
 
@@ -74,17 +59,14 @@ MLOps & Model Deployment at Scale
 Reinforcement Learning
 Multi-modal AI Systems
 
-📫 Let's Connect!
-<div align="center">
-Show Image
-Show Image
-Show Image
-📧 mykkularathne@gmail.com
-</div>
+
+📫 Let's Connect
+📧 Email: mykkularathne@gmail.com
+💼 LinkedIn: yasindukaveesha
+🐙 GitHub: yasindukaveeshsa
 
 <div align="center">
 💡 Fun Fact: Call me YAKA! 🎭
 "Data is the new oil, but models are the refineries"
-Show Image
 ⭐️ From Yasindu Kaveesha
 </div>
