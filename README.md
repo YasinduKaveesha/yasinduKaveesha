@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=yasindukaveeshsa&label=Profile%20views&color=blueviolet&style=for-the-badge)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Yasindu_Kaveesha&label=Profile%20views&color=blueviolet&style=for-the-badge)
   
   **Data Science Student | ML Engineer | RAG Systems Developer**
   
@@ -75,11 +75,11 @@ me.say_hi()
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasindukaveeshsa&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yasindu_Kaveesha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasindukaveeshsa&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yasindu_Kaveesha&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasindukaveeshsa&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasindu_Kaveesha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
   
 </div>
 
@@ -103,7 +103,7 @@ me.say_hi()
   
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mykkularathne@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasindukaveesha)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasindukaveeshsa)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yasindu_Kaveesha)
   
   **📧 mykkularathne@gmail.com**
   
@@ -117,8 +117,8 @@ me.say_hi()
   
   *"Data is the new oil, but models are the refineries"* 
   
-  ![Snake animation](https://github.com/yasindukaveeshsa/yasindukaveeshsa/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://github.com/Yasindu_Kaveesha/Yasindu_Kaveesha/blob/output/github-contribution-grid-snake-dark.svg)
   
-  ⭐️ From [Yasindu Kaveesha](https://github.com/yasindukaveeshsa)
+  ⭐️ From [Yasindu Kaveesha](https://github.com/Yasindu_Kaveesha)
   
 </div>
