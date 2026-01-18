@@ -119,8 +119,8 @@ me.say_hi()
   
   *"Data is the new oil, but models are the refineries"* 
   
-  ![Snake animation](https://github.com/yasindukaveeshsa/yasindukaveeshsa/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://github.com/YasinduKaveesha/YasinduKaveesha/blob/output/github-contribution-grid-snake-dark.svg)
   
-  ⭐️ From [Yasindu Kaveesha](https://github.com/yasindukaveeshsa)
+  ⭐️ From [Yasindu Kaveesha](https://github.com/YasinduKaveesha)
   
 </div>
