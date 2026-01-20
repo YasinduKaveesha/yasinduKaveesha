@@ -77,10 +77,6 @@ me.say_hi()
 <div align="center">
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yasindu_Kaveesha&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
-
- ![GitHub Stats](__https://github-readme-stats.vercel.app/api?username=YasinduKaveesha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866__)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasindu_Kaveesha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8)
   
 </div>
 
