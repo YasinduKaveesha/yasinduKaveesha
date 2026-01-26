@@ -46,16 +46,7 @@ I'm a passionate data scientist and machine learning enthusiast from Sri Lanka, 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Yasindu_Kaveesha&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F85D7F)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YasinduKaveesha&theme=radical&hide_border=true&background=0D1117&layout=compact&langs_count=8&count_private=true)
-  
-</div>
-
+---
 
 ## 🚀 Featured Projects
 
