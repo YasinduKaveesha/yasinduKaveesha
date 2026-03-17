@@ -1,16 +1,12 @@
 # Hey, I'm Yasindu Kaveesha
 
 <div align="center">
-  
-  **AI Engineer · Deep Learning · LLM Systems · RAG & Agents · SLIIT 🇱🇰**
-   
+
+**AI Engineer · Deep Learning · LLM Systems · RAG & Agents · SLIIT 🇱🇰**
+
 </div>
 
 ---
-
-## About Me
-
-I'm a passionate data scientist and machine learning enthusiast from Sri Lanka, specializing in deep learning architectures and retrieval-augmented generation systems. I love transforming complex data into actionable insights and building AI solutions that make a difference.
 
 ## Tech Stack
 
