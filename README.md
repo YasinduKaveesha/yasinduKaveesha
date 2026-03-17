@@ -46,12 +46,7 @@ I'm a passionate data scientist and machine learning enthusiast from Sri Lanka, 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-## Featured Projects
 
-- **RAG System Pipeline**: Building enterprise-grade retrieval-augmented generation systems
-- **Deep Learning Models**: Custom neural architectures for computer vision and NLP
-- **ML Operations**: End-to-end MLOps pipelines with monitoring and deployment
-- **AI-Powered Web Apps**: Full-stack applications integrated with ML models
 
 ## Let's Connect!
 
