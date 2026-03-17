@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  **Data Science Student | ML Engineer | RAG Systems Developer**
+  **AI Engineer · Deep Learning · LLM Systems · RAG & Agents · SLIIT 🇱🇰**
    
 </div>
 
