@@ -56,8 +56,6 @@ I'm a passionate data scientist and machine learning enthusiast from Sri Lanka, 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yasindukaveesha)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasindukaveeshsa)
   
-  **mykkularathne@gmail.com**
-  
 </div>
 
 ---
@@ -65,6 +63,9 @@ I'm a passionate data scientist and machine learning enthusiast from Sri Lanka, 
 <div align="center">
   
   *"Data is the new oil, but models are the refineries"* 
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YasinduKaveesha&theme=dark&hide_border=true&ring=1E6FDB&fire=1E6FDB&currStreakLabel=1E6FDB&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&background=00000000)
+
   
   ![Snake animation](https://github.com/YasinduKaveesha/YasinduKaveesha/blob/output/github-contribution-grid-snake-dark.svg)
   
