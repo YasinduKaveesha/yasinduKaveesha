@@ -1,10 +1,4 @@
 # Hey, I'm Yasindu Kaveesha [✉️](mailto:mykkularathne@gmail.com)
-<div align="center">
-
-**AI Engineer · Deep Learning · LLM Systems · RAG & Agents · SLIIT **
-
-</div>
-
 ---
 
 ## Tech Stack
