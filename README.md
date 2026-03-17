@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**AI Engineer · Deep Learning · LLM Systems · RAG & Agents · SLIIT 🇱🇰**
+**AI Engineer · Deep Learning · LLM Systems · RAG & Agents · SLIIT **
 
 </div>
 
