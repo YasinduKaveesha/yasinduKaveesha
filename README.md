@@ -1,11 +1,15 @@
-
-
 <div align="center">
-  
-
 
   <img src="./profile/streak.svg" alt="GitHub Streak" />
-  
-  ![Snake animation](https://github.com/YasinduKaveesha/YasinduKaveesha/blob/output/github-contribution-grid-snake-dark.svg)
-  
+
+  <img src="https://raw.githubusercontent.com/YasinduKaveesha/YasinduKaveesha/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+  <br/><br/>
+
+  <p>Want the full picture of my work? Grab my CV below.</p>
+
+  <a href="https://github.com/YasinduKaveesha/YasinduKaveesha/releases/latest/download/Yasindu_Kularathne_CV.pdf">
+    <img src="https://img.shields.io/badge/Download%20CV-PDF-2563EB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+  </a>
+
 </div>
